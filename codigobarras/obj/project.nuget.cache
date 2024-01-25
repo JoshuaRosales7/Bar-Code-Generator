@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9xCTahoQz+lKL4xqFF1yYPlcUn4gzmtFHmpb/steOVrc065GqnV+iQSNHNXWAMNnSKa/oVku4oCsRNdylfbSOg==",
+  "success": true,
+  "projectFilePath": "D:\\PaginasWeb\\C#\\GeneradorCodigoBarras\\codigobarras\\codigobarras.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hogar\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Hogar\\.nuget\\packages\\system.drawing.common\\8.0.1\\system.drawing.common.8.0.1.nupkg.sha512",
+    "C:\\Users\\Hogar\\.nuget\\packages\\zxing.net\\0.16.9\\zxing.net.0.16.9.nupkg.sha512"
+  ],
+  "logs": []
+}
