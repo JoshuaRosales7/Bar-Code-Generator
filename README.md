@@ -27,4 +27,4 @@ Si encuentras algún problema o tienes mejoras para sugerir, no dudes en crear u
 Este proyecto está bajo la licencia [MIT](LICENSE).
 
 ---
-© [Nombre del Autor]
+© Joshua Rosales
